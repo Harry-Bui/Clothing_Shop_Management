@@ -1,0 +1,14 @@
+103Jean, Jean, Quan Jean Nam bo, 17, 14/05/2021, 299000
+104Jean, Jean, Quan Jean Nu bo, 15, 14/05/2021, 349000
+102Jean, Jean, Quan Jean Nu, 19, 14/06/2021, 249000
+101Jean, Jean, Quan Jean Nam, 20, 14/07/2021, 199000
+100Jean, Jean, Quan Jean Tre Em, 22, 14/09/2021, 159000
+202Thun, Thun, Ao Thun Nu, 19, 14/02/2021, 199000
+201Thun, Thun, Ao Thun Nam, 20, 14/02/2021, 149000
+200Thun, Thun, Ao Thun Tre Em, 22, 14/02/2021, 109000
+302Short, Short, Quan Short Nu, 19, 14/02/2021, 249000
+301Short, Short, Quan Short Nam, 20, 14/02/2021, 199000
+300Short, Short, Quan Short Tre Em, 22, 14/02/2021, 159000
+204Thun, Thun, Ao Thun Nu gian, 19, 14/02/2021, 349000
+205Thun, Thun, Ao Thun Nam gian, 20, 14/02/2021, 299000
+203Thun, Thun, Thun Tre Em gian, 22, 14/02/2021, 209000
